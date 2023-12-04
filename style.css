@@ -3,10 +3,51 @@ div {
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 body {
-    background-color: gray;
+    background-color: black;
+    color: #7f8280;
+    background-image: url(btmnbkrnd.jpg);
+    background-size: cover;
+    background-position: center center;  
+    position: relative;
+    background-repeat: no-repeat;
 }
 ul {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
 }
 
+header {
+    background-image: url(drk.knight.jpg); 
+    background-size: cover;
+    background-position: center center; 
+    height: 250px; 
+    position: relative;
+}
+#wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    background-color: #121212;
+    min-width: 600px;
+    max-width: 1280px;
+    box-shadow: 10px 10px 10px #333333;
+    border: 1px solid black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15x;
+}
+nav{
+    background-color: #333333;
+    font-size: larger;
+}
+a {
+    color: white;
+    text-decoration: none;
+  }
+h2{
+    text-align: center;
+}
+#blah{
+    text-align: left;
+    text-shadow: #121212;
+}
